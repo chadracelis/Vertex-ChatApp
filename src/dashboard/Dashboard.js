@@ -43,7 +43,7 @@ class Dashboard extends Component {
   newChatBtn = () => {
     this.setState({
       newChatForm: true,
-      selectChat: null
+      selectedChat: null
     });
   };
 
