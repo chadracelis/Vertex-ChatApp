@@ -6,7 +6,7 @@
     "@ishawnwang/withunmounted": "^1.0.1",
     "@material-ui/core": "^4.2.0",
     "@material-ui/icons": "^4.2.1",
-    "firebase": "^6.0.2",
+    "firebase": "^10.9.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router-dom": "^5.0.1",
